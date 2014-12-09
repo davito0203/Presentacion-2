@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.33pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Objetivos}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Objetivo General}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Objetivos Espec\IeC {\'\i }ficos}{4}{0}{1}
+\beamer@sectionintoc {2}{Metodolog\IeC {\'\i }a}{5}{0}{2}
+\beamer@sectionintoc {3}{Pasos del libro}{6}{0}{3}
